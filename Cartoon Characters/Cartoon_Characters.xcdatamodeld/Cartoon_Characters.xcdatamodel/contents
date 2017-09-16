@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="12141" systemVersion="16G29" minimumToolsVersion="Automatic" sourceLanguage="Objective-C" userDefinedModelVersionIdentifier="">
+    <entity name="OKFavoriteCharacter" representedClassName="OKFavoriteCharacter" syncable="YES">
+        <attribute name="idCharacter" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="YES" syncable="YES"/>
+        <attribute name="imageCharacter" optional="YES" attributeType="Binary" allowsExternalBinaryDataStorage="YES" syncable="YES"/>
+        <attribute name="linkWikiCharacter" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="nameCharacter" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="textAboutCharacter" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="OKFavoriteCharacter" positionX="-54" positionY="-9" width="128" height="118"/>
+    </elements>
+</model>
